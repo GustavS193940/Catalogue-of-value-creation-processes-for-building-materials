@@ -13,7 +13,7 @@ By pressing the **+**-symbol on the left side of the screen, you can expand the 
 **Column A** contains the name of the material.
 
 **Column B** contains an image of the material and ID-numbers of each scenario.
-The ID-numbers correspond to the name of an Excel-file in the "**LCI**"-folder.
+The ID-numbers correspond to the name of an Excel-file in the "**[LCI]([<Your Download Link here>](https://github.com/GustavS193940/Catalogue-of-value-creation-processes-for-building-materials/tree/cf0c38de1a39aad33826288989a4168c97468ab8/LCI)) **"-folder.
 This Excel-file contains the life cycle inventory (LCI) as well as a detailed description of the scenario with the corresponding ID-number.
 
 **Column D** contains the declared unit of the material and names of each scenario.
