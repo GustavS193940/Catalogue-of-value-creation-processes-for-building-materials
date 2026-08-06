@@ -1,5 +1,5 @@
 # Reference calculation of electricity use in dissassembly
-The disassembly of 1 m² gypsum board is used as a reference for the elextricity use in dissassembly.
+The disassembly of 1 m² gypsum board is used as a reference for the electricity use in dissassembly.
 
 ## Assumptions
 - There are 20 screws per m² gypsum board
