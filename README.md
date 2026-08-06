@@ -13,31 +13,31 @@ By pressing the **+**-symbol on the left side of the screen, you can expand the 
 **Column A** contains the name of the material.
 
 **Column B** contains an image of the material and ID-numbers of each scenario.
-The ID-numbers correspond to the name of an Excel-file in the [**"LCI"**-folder](https://github.com/GustavS193940/Catalogue-of-value-creation-processes-for-building-materials/tree/cf0c38de1a39aad33826288989a4168c97468ab8/LCI).
-This Excel-file contains the life cycle inventory (LCI) as well as a detailed description of the scenario with the corresponding ID-number.
+The ID-numbers correspond to the name of an Excel-file in the [**"Documentation"**-folder]([https://github.com/GustavS193940/Catalogue-of-value-creation-processes-for-building-materials/tree/cf0c38de1a39aad33826288989a4168c97468ab8/LCI](https://github.com/GustavS193940/Catalogue-of-value-creation-processes-for-building-materials/tree/main/Documentation)).
+This Excel-file contains the documentation of the LCA calculation including life cycle inventory (LCI) as well as a detailed description of the scenario with the corresponding ID-number.
 
 **Column D** contains the declared unit of the material and names of each scenario.
 
-**Column E** contains the mass factor (kg/unit) of the material and short descriptions of each scenario.
+**Column E** contains the mass factor (kg/unit) of the material and short descriptions of each scenario. The mass factor is there in case a material is quantified by mass instead of the declared unit, allowing for easy conversion into the declared unit.
 
-**Column I** contains the circulariy level of each scenario.
+**Column I** contains the circulartiy level of each scenario.
 The catalogue categorises each scenario into one of five different circularity levels.
 The lower the number, the more circular the scenario is.
 
 <img width="626" height="223" alt="billede" src="https://github.com/user-attachments/assets/b4172856-5576-4b89-907b-86c0433918d6" />
 
-**Column J** contains the **Global warming** impacts of each scenario expressed in **kg CO2eq**.
+**Column J** contains the **Global warming** impacts of each scenario expressed in **kg CO<sup>2</sup> eq**.
 
 **Column K** contains the **Land use** impacts of each scenario expressed in **m²a crop eq**.
 
-**Column L** contains the **Mineral ressource scarcity** impacts of each scenario expressed in **kg CU eq**.
+**Column L** contains the **Mineral resource scarcity** impacts of each scenario expressed in **kg CU eq**.
 
-**Column M** contains the **Fossil ressource scarcity** impacts of each scenario expressed in **kg oil eq**.
+**Column M** contains the **Fossil resource scarcity** impacts of each scenario expressed in **kg oil eq**.
 
 **Column N** and **Column O** contain a visual comparison of the environmental impacts associated with every scenario of the material.
 You can change which impact category is shown in the comparison graph by choosing a different one in the "**Impact Category:**" drop-down.
 
-<img width="576" height="438" alt="billede" src="https://github.com/user-attachments/assets/ca24eb20-64d6-4ebf-a4ff-628c034e03c6" />
+<img width="610" height="455" alt="billede" src="https://github.com/user-attachments/assets/2c700fe0-e1de-4d6f-b11d-888dfb49d38b" />
 
 ## Building Scenarios
 In the two sheets named "**Building Scenario 1**" and "**Building Scenario 2**" you can input the materials in your project to see the environmental impacts at a building level for two separate scenarios.
@@ -69,4 +69,4 @@ It is possible to add multiple instances of the same material. For example, you 
 The "**Results**" sheet calculates the total impacts of decisions made for each building scenario.
 It also provides comparative graphs for each of the environmental impacts included in the catalogue.
 
-<img width="987" height="661" alt="billede" src="https://github.com/user-attachments/assets/09d47ff0-3ad7-4efb-a50e-f0ab83f0cd01" />
+<img width="973" height="619" alt="billede" src="https://github.com/user-attachments/assets/7483e321-e0db-4e5e-9151-81df2342ff2b" />
